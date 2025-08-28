@@ -1,6 +1,6 @@
-# toonflix
+# Flutter UI Challenge
 
-A new Flutter project.
+Built a Flutter UI and tried out different widgets.
 
 ## Getting Started
 
